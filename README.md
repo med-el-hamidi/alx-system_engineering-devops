@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Sell Basics
+This project is just to a reminder of some Sell Basics
