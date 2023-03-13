@@ -1,1 +1,1 @@
-This is a new Sell I/O Redirections & Filters
+This is a Shell I/O Redirections & Filters Directory
